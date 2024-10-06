@@ -1,7 +1,7 @@
 # Hello, I'm Georges
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I'm a Cybersecurity enthusiast and aspiring ethical hacker, currently pursuing a Bachelor's in Network and Communication Systems. Passionate about safeguarding digital assets and ensuring a secure online environment. 
 
@@ -9,13 +9,12 @@ Actively learning network security, malware reverse engineering, and incident re
 
 Proficient in Python, C, Bash scripting, as well as tools like Nmap, Wireshark, Burp Suite, and Metasploit. Also skilled in Scratch, JavaScript, Java, and Microsoft 365.
 
-Seeking opportunities to collaborate on projects involving systems security, vulnerability analysis, and innovative security solutions. Regularly attending cybersecurity conferences and workshops to stay updated with the latest trends and techniques.
-Aspiring to become a penetration tester and incident responder. Let's work together to uncover hidden threats and protect the digital world from cybercriminals!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey in computer science has led me to develop a passion for cybersecurity, I'm Seeking opportunities to collaborate on projects involving systems security, vulnerability analysis, and innovative security solutions. Regularly attending cybersecurity conferences and workshops to stay updated with the latest trends and techniques.
+Aspiring to become a penetration tester and incident responder. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
