@@ -13,7 +13,7 @@ Proficient in Python, C, Bash scripting, as well as tools like Nmap, Wireshark, 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, I'm Seeking opportunities to collaborate on projects involving systems security, vulnerability analysis, and innovative security solutions. Regularly attending cybersecurity conferences and workshops to stay updated with the latest trends and techniques.
+My journey in Networking has led me to develop a passion for cybersecurity, I'm Seeking opportunities to collaborate on projects involving systems security, vulnerability analysis, and innovative security solutions. Regularly attending cybersecurity conferences and workshops to stay updated with the latest trends and techniques.
 Aspiring to become a penetration tester and incident responder. 
 
 ## Skills
