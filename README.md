@@ -3,7 +3,14 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a Cybersecurity enthusiast and aspiring ethical hacker, currently pursuing a Bachelor's in Network and Communication Systems. Passionate about safeguarding digital assets and ensuring a secure online environment. 
+
+Actively learning network security, malware reverse engineering, and incident response. Interested in computer forensics, threat hunting, and cybercrime investigation. 
+
+Proficient in Python, C, Bash scripting, as well as tools like Nmap, Wireshark, Burp Suite, and Metasploit. Also skilled in Scratch, JavaScript, Java, and Microsoft 365.
+
+Seeking opportunities to collaborate on projects involving systems security, vulnerability analysis, and innovative security solutions. Regularly attending cybersecurity conferences and workshops to stay updated with the latest trends and techniques.
+Aspiring to become a penetration tester and incident responder. Let's work together to uncover hidden threats and protect the digital world from cybercriminals!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
